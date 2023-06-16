@@ -10,7 +10,7 @@ The game will create a save when you quit the game and automatically load save f
 
 Use the keys WASD to move around, Q and E to turn.
 
-The blue square on the map represent the exit.
+The blue square on the map represents the exit.
 
 https://github.com/tdd108/Maze3D/assets/94826705/43fbbab5-902a-4391-bad7-9757f0bbd279
 
